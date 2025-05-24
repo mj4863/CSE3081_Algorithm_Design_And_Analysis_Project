@@ -1,0 +1,8 @@
+﻿  sort.cpp
+C:\Users\mj486\OneDrive\바탕 화면\민준\서강대\4-2학기\알고리즘설계와분석\과제\Lab3\SortingMethods\SortingMethods\sort.cpp(119,19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  0 of 45 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  SortingMethods.vcxproj -> C:\Users\mj486\OneDrive\바탕 화면\민준\서강대\4-2학기\알고리즘설계와분석\과제\Lab3\SortingMethods\x64\Release\SortingMethods.exe
